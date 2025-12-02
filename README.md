@@ -56,4 +56,4 @@ def divide(num1, num2):
 
 ---
 
- **Projeto simples, ideal para aprendizado e prática!**
+ **Projeto criado apenas para estudo da linguagem**
