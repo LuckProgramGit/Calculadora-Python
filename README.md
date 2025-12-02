@@ -7,11 +7,11 @@ Este projeto é uma **calculadora simples em Python**, capaz de realizar as prin
 
 A calculadora permite executar:
 
-* + **Soma**
-* - **Subtração**
-* * **Multiplicação**
-* / **Divisão** (com tratamento de divisão por zero)
-* ^ **Potenciação**
+*  **Soma**
+*  **Subtração**
+*  **Multiplicação**
+*  **Divisão** (com tratamento de divisão por zero)
+*  **Potenciação**
 
 ##  Como executar
 
