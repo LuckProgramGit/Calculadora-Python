@@ -3,17 +3,17 @@
 Este projeto é uma **calculadora simples em Python**, capaz de realizar as principais operações matemáticas entre dois números.
 É um ótimo exemplo para iniciantes que estão aprendendo funções, condicionais e entrada de dados no Python.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 A calculadora permite executar:
 
-* ➕ **Soma**
-* ➖ **Subtração**
-* ✖️ **Multiplicação**
-* ➗ **Divisão** (com tratamento de divisão por zero)
-* 🧮 **Potenciação**
+* + **Soma**
+* - **Subtração**
+* * **Multiplicação**
+* / **Divisão** (com tratamento de divisão por zero)
+* ^ **Potenciação**
 
-## 🚀 Como executar
+##  Como executar
 
 1. Certifique-se de ter o **Python 3** instalado.
 2. Baixe ou clone o repositório.
@@ -23,7 +23,7 @@ A calculadora permite executar:
 python calculadora.py
 ```
 
-## 🧠 Como funciona
+##  Como funciona
 
 O programa:
 
@@ -42,12 +42,12 @@ def divide(num1, num2):
     return num1 / num2
 ```
 
-## 🔒 Tratamento de erros
+##  Tratamento de erros
 
 * Impede divisão por zero.
 * Exibe mensagem caso a operação escolhida seja inválida.
 
-## 📈 Possíveis melhorias
+##  Possíveis melhorias
 
 * Criar interface gráfica (Tkinter)
 * Permitir múltiplas operações sem reiniciar o programa
@@ -56,4 +56,4 @@ def divide(num1, num2):
 
 ---
 
-📌 **Projeto simples, ideal para aprendizado e prática!**
+ **Projeto simples, ideal para aprendizado e prática!**
